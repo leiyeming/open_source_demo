@@ -1,0 +1,26 @@
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 1,
+  "limit": "20",
+  "total": 2,
+  "list": [
+    {
+      "vod_id": "test01",
+      "vod_name": "Big Buck Bunny (开源电影)",
+      "vod_pic": "https://peach.blender.org/wp-content/uploads/title_an_v2.jpg",
+      "vod_remarks": "1080P",
+      "vod_play_from": "hls",
+      "vod_play_url": "播放$https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "vod_id": "test02",
+      "vod_name": "Sintel (Blender示例)",
+      "vod_pic": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster_v2_small.jpg",
+      "vod_remarks": "HD",
+      "vod_play_from": "hls",
+      "vod_play_url": "播放$https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+    }
+  ]
+}
