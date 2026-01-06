@@ -1,18 +1,10 @@
 {
-  "list": [
+  "sites": [
     {
-      "vod_id": "1",
-      "vod_name": "Big Buck Bunny",
-      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
-      "vod_play_from": "W_Player",
-      "vod_play_url": "HD$https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "vod_id": "2",
-      "vod_name": "Apple Test Stream",
-      "vod_pic": "https://developer.apple.com/assets/elements/icons/hls/hls-96x96.png",
-      "vod_play_from": "W_Player",
-      "vod_play_url": "FullHD$https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+      "key": "open_source_samples",
+      "name": "官方示例/开源电影",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/leiyeming/open_source_demo/main/api.json"
     }
   ]
 }
