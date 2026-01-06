@@ -9,7 +9,7 @@
       "vod_play_url": "播放$https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "vod_director": "Sacha Goedegebure",
       "vod_actor": "Bunny, Rodents",
-      "vod_content": "这是一部著名的开源三维动画电影。本 App 使用该视频作为 VOD 功能演示素材，展示播放器的 HLS 流媒体解析能力、UI 布局以及视频详情页渲染。\n\nThis is a famous open-source 3D animated film. This App uses this video as VOD demonstration material to showcase the player's HLS streaming parsing capabilities, UI layout, and video detail page rendering."
+      "vod_content": "这是一部著名的开源三维动画电影。本 App 使用该视频作为 VOD 功能演示素材，展示播放器的 HLS 流媒体解析能力、UI 布局以及视频详情页渲染。如果用户提供片源，将会展示在这里。\n\nThis is a famous open-source 3D animated film. This App uses this video as VOD demonstration material to showcase the player's HLS streaming parsing capabilities, UI layout, and video detail page rendering. If users provide video sources, they will be displayed here."
     },
     {
       "vod_id": "test02",
@@ -20,7 +20,7 @@
       "vod_play_url": "播放$https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
       "vod_director": "Colin Levy",
       "vod_actor": "Sintel, Scales",
-      "vod_content": "Sintel 是一部由 Blender 基金会制作的开源电影，常用于展示高动态范围视频播放。此示例用于验证 App 在处理多码率流媒体时的稳定性。\n\nSintel is an open-source movie produced by the Blender Foundation, often used to demonstrate high dynamic range video playback. This example is used to verify the App's stability when handling multi-bitrate streaming."
+      "vod_content": "Sintel 是一部由 Blender 基金会制作的开源电影，常用于展示高动态范围视频播放。此示例用于验证 App 在处理多码率流媒体时的稳定性。如果用户提供片源，将会展示在这里。\n\nSintel is an open-source movie produced by the Blender Foundation, often used to demonstrate high dynamic range video playback. This example is used to verify the App's stability when handling multi-bitrate streaming. If users provide video sources, they will be displayed here."
     }
   ]
 }
