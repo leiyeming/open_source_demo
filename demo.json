@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "open_source_samples",
-      "name": "官方示例/开源电影",
+      "name": "open source/demo",
       "type": 1,
       "api": "https://raw.githubusercontent.com/leiyeming/open_source_demo/main/api.json"
     }
