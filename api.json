@@ -8,7 +8,7 @@
   "list": [
     {
       "vod_id": "test01",
-      "vod_name": "Big Buck Bunny (开源电影)",
+      "vod_name": "Big Buck Bunny (Open Source)",
       "vod_pic": "https://peach.blender.org/wp-content/uploads/title_an_v2.jpg",
       "vod_remarks": "1080P",
       "vod_play_from": "hls",
@@ -16,7 +16,7 @@
     },
     {
       "vod_id": "test02",
-      "vod_name": "Sintel (Blender示例)",
+      "vod_name": "Sintel (Open Source)",
       "vod_pic": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster_v2_small.jpg",
       "vod_remarks": "HD",
       "vod_play_from": "hls",
